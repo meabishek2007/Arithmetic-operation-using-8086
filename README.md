@@ -236,6 +236,8 @@ END
 
 ---
 ## OUTPUT FROM MASM SOFTWARE
+![WhatsApp Image 2025-09-01 at 22 00 34_3b89cd69](https://github.com/user-attachments/assets/7a8fb061-292e-4055-9676-e19e7a5e9601)
+
 
 
 
