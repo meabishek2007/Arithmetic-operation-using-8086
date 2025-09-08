@@ -65,10 +65,6 @@ END
 #### Manual Calculations
 ![WhatsApp Image 2025-08-30 at 16 01 39_09372a33](https://github.com/user-attachments/assets/66b930e4-2e0d-4cf2-9436-c142e304347c)
 
-
-
-(Add your calculation here)
-
 ---
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
